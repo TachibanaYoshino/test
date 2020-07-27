@@ -5,6 +5,6 @@
   
   
 ```diff  
-+AnimeGAN: a novel lightweight GAN for photo animation  
+AnimeGAN: a novel lightweight GAN for photo animation  
 
 ```  
