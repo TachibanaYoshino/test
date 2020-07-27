@@ -5,7 +5,7 @@
  AnimeGAN: sdfsafd a novel lightweight GAN for photo animation 
 ``` 
 ```yaml  
- AnimeGAN sfsafsa fsdfsafdsa: adfasf a novel lightweight GAN for photo animation
+ AnimeGAN sfsafsa fsdfsafdsa: 
 ``` 
+fdsafdsf          *AnimeGAN sfsafsa fsdfsafdsa  * 
 
- 
