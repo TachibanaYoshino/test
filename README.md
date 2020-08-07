@@ -9,3 +9,9 @@
 ``` 
 fdsafdsf          *AnimeGAN sfsafsa fsdfsafdsa  * 
 
+  
+
+ 阿斯弗 - [x] initiate  
+- [x] participate  
+- [ ] redeem  
+- [ ] refund 
