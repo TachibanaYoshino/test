@@ -20,7 +20,7 @@ fdsafdsf          *AnimeGAN sfsafsa fsdfsafdsa  *
 | :------: | :------: |:------: | :------: | :------: |
 |Miyazaki Hayao|The Wind Rises|1752|1080p| ***TBD*** |
 |Makoto Shinkai|Your Name|1642|BD|***TBD***|
-|Kon Satoshi|Paprika|1255|BDRip|***TBD***|  
+|Kon Satoshi|Paprika|1255|BDRip|***TBD***|   
   
 <table>
 	<tr>
