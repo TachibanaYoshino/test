@@ -7,15 +7,17 @@
 ```yaml  
  AnimeGAN sfsafsa fsdfsafdsa: 
 ``` 
-fdsafdsf          *AnimeGAN sfsafsa fsdfsafdsa  * 
+fdsafdsf           * AnimeGAN sfsafsa fsdfsafdsa  * 
 
   
 
- 阿斯弗 - [x] initiate  
+ 阿斯弗 
+- [x] initiate  
 - [x] participate  
 - [ ] redeem  
 - [ ] refund 
-  *|   
+
+ 
 |Anime style|Film|Picture Number|Quality|Download link|
 | :------: | :------: |:------: | :------: | :------: |
 |Miyazaki Hayao|The Wind Rises|1752|1080p| ***TBD*** |
